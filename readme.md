@@ -2,8 +2,8 @@
 
 > Build Animated Countdown on vanilla js
 
-### [Demo]()
-[![IMAGE ALT TEXT HERE](./uploads/screen.png)]()
+### [Demo](http://animated-countdown-js-ab.surge.sh)
+[![IMAGE ALT TEXT HERE](./uploads/screen.png)](https://nimb.ws/T1aikW)
 
 ### Get started
 
